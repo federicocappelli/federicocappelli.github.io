@@ -23,15 +23,15 @@ email: info@federicocappelli.com
 description: >- # this means to ignore newlines until "baseurl:"
   Torrent search and download simplified.
 baseurl: "/torrenthound" # the subpath of your site, e.g. /blog
-url: "http://federicocappelli.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
 # Build settings
+theme: jekyll-theme-hacker
 # remote_theme: pages-themes/hacker@v0.2.0
 # plugins:
 #   - jekyll-remote-theme
-theme: jekyll-theme-hacker
 
 # Exclude from processing.
 # The following items will not be processed, by default.
