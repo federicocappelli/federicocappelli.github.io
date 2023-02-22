@@ -22,9 +22,12 @@ title: Torrent Hound
 email: info@federicocappelli.com
 description: >- # this means to ignore newlines until "baseurl:"
   Torrent search and download simplified.
-baseurl: "/torrenthound" # the subpath of your site, e.g. /blog
+# baseurl: "/torrenthound" # the subpath of your site, e.g. /blog
 # url: "http://federicocappelli.com" # the base hostname & protocol for your site, e.g. http://example.com
-url: ""
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://federicocappelli.com/torrenthound" # the base hostname & protocol for your site, e.g. http://example.com
+
+
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
