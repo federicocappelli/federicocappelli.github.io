@@ -16,3 +16,4 @@ layout: default
 - [Are you safe charging your MacBook with a USB-C cable?](https://medium.com/@federicocap/are-you-safe-charging-your-devices-with-usb-c-366cfc4debc9)
 - [How to use Fastlane from an Xcode Run script phase](https://medium.com/@federicocap/how-to-use-fastlane-from-an-xcode-run-script-phase-86b0b4b7ae39)
 - [Releasing AppInfoFetcher](https://medium.com/@federicocap/releasing-appinfofetcher-3a2b57d13ee1)
+- [KML, KMZ and GPX file conversion using Shortcuts on macOS](https://medium.com/@federicocap/kml-kmz-and-gpx-file-conversion-using-shortcuts-on-macos-1654f1bde949)
