@@ -42,6 +42,17 @@ Diagnose problems in one click and configure search or download.
 
 Please visit the [project's GitHub page](https://github.com/federicocappelli/TorrentHound) and fill an [Issue](https://github.com/federicocappelli/TorrentHound/issues) for reporting a bug or requesting a new feature like the support for a new search engine or a new remote torrent client.
 
+
+### Changelogs
+
+#### 1.1
+- Added support for 1337x.to Search engine 
+- Error alerts improved
+- Minor bug fixes
+
+#### 1.0
+- Initial release
+
 * * *
 
 [![Download Torrent Hound app](files/donate.png)](https://www.paypal.com/donate/?hosted_button_id=343FN8VXBZCVE)
