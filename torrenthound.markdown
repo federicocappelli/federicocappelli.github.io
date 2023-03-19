@@ -20,6 +20,10 @@ Avoid dodgy websites, annoying advertisements and dangerous pop-ups while downlo
   <img width="60%" src="./files/th1.png">
 </p>
 
+Supported search engines:
+- 1337x.to
+- The Pirate Bay
+- Kick Ass Torrents
 
 ### Download
 
@@ -28,6 +32,9 @@ Download Torrents locally or by using a remote Torrent Client such as a home ser
 <p align="center">
   <img width="60%" src="./files/th2.png">
 </p>
+
+Supported remote clients:
+- Transmission (with and without authentication)
 
 ### Configure
 
