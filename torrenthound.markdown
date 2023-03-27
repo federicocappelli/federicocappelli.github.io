@@ -9,7 +9,7 @@ layout: default
 # Torrent Hound
 ## Search for torrents everywhere and download them wherever you want
 
-|[![Download Torrent Hound app](files/box.png)](./files/torrenthound.zip)|[Download (Min requirement: macOS 13)](./files/torrenthound.zip)|
+|[![Download Torrent Hound app (1.2)](files/box.png)](./files/torrenthound.zip)|[Download (Min requirement: macOS 13)](./files/torrenthound.zip)|
 
 ### Search
 
@@ -51,6 +51,9 @@ Please visit the [project's GitHub page](https://github.com/federicocappelli/Tor
 
 
 ### Changelogs
+
+#### 1.2
+- support to 1337x.to improved 
 
 #### 1.1
 - Added support for 1337x.to Search engine 
