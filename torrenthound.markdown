@@ -53,10 +53,10 @@ Please visit the [project's GitHub page](https://github.com/federicocappelli/Tor
 ### Changelogs
 
 #### 1.2
-- support to 1337x.to improved 
+- support to 1337x improved
 
 #### 1.1
-- Added support for 1337x.to Search engine 
+- Added support for 1337x.to search engine 
 - Error alerts improved
 - Minor bug fixes
 
