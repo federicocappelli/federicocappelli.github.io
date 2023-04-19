@@ -52,8 +52,12 @@ Please visit the [project's GitHub page](https://github.com/federicocappelli/Tor
 
 ### Changelogs
 
+#### 1.3
+- Improved Support to 1337x categories
+- Added contextual menu for opening a result original page and copying the details on clipboard
+
 #### 1.2
-- support to 1337x improved
+- Improved Support to 1337x
 
 #### 1.1
 - Added support for 1337x.to search engine 
