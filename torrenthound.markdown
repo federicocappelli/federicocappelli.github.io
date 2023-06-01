@@ -52,6 +52,11 @@ Please visit the [project's GitHub page](https://github.com/federicocappelli/Tor
 
 ### Changelogs
 
+#### 1.4
+- Auto update
+- Right click on a result now shows the option to download locally
+- Improved Support to 1337x
+
 #### 1.3
 - Improved Support to 1337x categories
 - Added contextual menu for opening a result original page and copying the details on clipboard

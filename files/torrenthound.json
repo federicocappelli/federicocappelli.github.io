@@ -2,5 +2,5 @@
      "version": 13,
      "displayVersion": "1.4 (13)",
      "date": "1685630270",
-     "changelog": "Auto update now checks availability for new versions of the app, double click on result now initiates a local download, 1337 support improved"
+     "changelog": "App Auto update, right click on a result now shows the option to download locally, support improved to 1337x"
  }
