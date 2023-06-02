@@ -56,6 +56,7 @@ Please visit the [project's GitHub page](https://github.com/federicocappelli/Tor
 - Auto update
 - Right click on a result now shows the option to download locally
 - Improved Support to 1337x
+- Search bar improved
 
 #### 1.3
 - Improved Support to 1337x categories
