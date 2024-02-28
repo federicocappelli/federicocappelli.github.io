@@ -6,10 +6,10 @@ layout: default
   <img width="30%" src="./files/icon.png">
 </p>
 
-# Torrent Hound
+# Torrent Hound (1.4.1)
 ## Search for torrents everywhere and download them wherever you want
 
-|[![Download Torrent Hound app (1.2)](files/box.png)](./files/torrenthound.zip)|[Download (Min requirement: macOS 13)](./files/torrenthound.zip)|
+|[![Download Torrent Hound app](files/box.png)](./files/torrenthound.zip)|[Download (Min requirement: macOS 13)](./files/torrenthound.zip)|
 
 ### Search
 
