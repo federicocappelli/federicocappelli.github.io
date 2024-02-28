@@ -47,10 +47,14 @@ Diagnose problems in one click and configure search or download.
 
 ### Details, Bug report and Features request
 
-Please visit the [project's GitHub page](https://github.com/federicocappelli/TorrentHound) and fill an [Issue](https://github.com/federicocappelli/TorrentHound/issues) for reporting a bug or requesting a new feature like the support for a new search engine or a new remote torrent client.
+Please visit the [project's GitHub page](https://github.com/federicocappelli/TorrentHound) and fill in an [Issue](https://github.com/federicocappelli/TorrentHound/issues) to report a bug or request a new feature like the support for a new search engine or a new remote torrent client.
 
 
 ### Changelogs
+
+#### 1.4.1 (28/02/2024)
+- Engines reachability test improved
+- Transmission configuration and reachability test improved
 
 #### 1.4 (12/08/2023)
 - Auto update
