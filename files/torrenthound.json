@@ -1,6 +1,6 @@
 {
-     "version": 16,
-     "displayVersion": "1.4.2 (16)",
-     "date": "1735839765",
-     "changelog": "1337x torrent sizes are now correct"
+     "version": 17,
+     "displayVersion": "1.5.0 (17)",
+     "date": "1757348492",
+     "changelog": "- New download history, now Torrent Hound remembers the torrents already downloaded - Search history improved with category - Engines reachability improved - Passwords storage security improved - Minor bugs fixed"
  }
