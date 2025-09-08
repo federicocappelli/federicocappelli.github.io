@@ -27,7 +27,7 @@ Supported search engines:
 
 ### Download
 
-Download Torrents locally or by using a remote Torrent Client such as a home server or NAS, without using browser extensions, bash scripts or moving `.torrent` files around.
+Download Torrents locally or using a remote Torrent Client, such as a home server or NAS, without using browser extensions, bash scripts or moving `.torrent` files around.
 
 <p align="center">
   <img width="60%" src="./files/th2.png">
@@ -53,7 +53,7 @@ Please visit the [project's GitHub page](https://github.com/federicocappelli/Tor
 ### Changelogs
 
 #### 1.5.0 (08/09/2025)
-- New download history, not Torrent Hound remembers the torrents already downloaded
+- New download history, now Torrent Hound remembers the torrents already downloaded
 - Search history improved with category
 - Engines reachability test improved
 - Passwords storage security improved
@@ -75,7 +75,7 @@ Please visit the [project's GitHub page](https://github.com/federicocappelli/Tor
 
 #### 1.3
 - Improved Support to 1337x categories
-- Added contextual menu for opening a result original page and copying the details on clipboard
+- Added contextual menu for opening a result original page and copying the details to the clipboard
 
 #### 1.2
 - Improved Support to 1337x
