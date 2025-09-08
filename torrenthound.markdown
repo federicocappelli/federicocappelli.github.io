@@ -6,7 +6,7 @@ layout: default
   <img width="30%" src="./files/icon.png">
 </p>
 
-# Torrent Hound (1.4.2)
+# Torrent Hound (1.5.0)
 ## Search for torrents everywhere and download them wherever you want
 
 |[![Download Torrent Hound app](files/box.png)](./files/torrenthound.zip)|[Download (Min requirement: macOS 13)](./files/torrenthound.zip)|
@@ -51,6 +51,13 @@ Please visit the [project's GitHub page](https://github.com/federicocappelli/Tor
 
 
 ### Changelogs
+
+#### 1.5.0 (08/09/2025)
+- New download history, not Torrent Hound remembers the torrents already downloaded
+- Search history improved with category
+- Engines reachability test improved
+- Passwords storage security improved
+- Minor bugs fixed
 
 #### 1.4.2 (02/01/2025)
 - 1337x torrent sizes are now correct
